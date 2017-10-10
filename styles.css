@@ -1,0 +1,21 @@
+body{
+  background-color: #cacaca;
+}
+
+.navbar-brand{
+  font-family: "meiryo",sans-serif;
+}
+
+.bd-navbar {
+  background-color: #43084a;
+}
+
+.card-title{
+  margin: 0.5rem;
+  font-size: 2rem;
+  text-align: center;
+}
+
+.card-text{
+  text-align: center;
+}
